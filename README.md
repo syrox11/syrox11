@@ -10,7 +10,7 @@ Available immediately · EU citizen (no sponsorship needed).
 |---------|---------------|
 | [playwright-bdd-saucedemo](https://github.com/syrox11/playwright-bdd-saucedemo) | E2E suite with Playwright, TypeScript, Gherkin/BDD and Page Object Model, run in GitHub Actions |
 | [api-testing-restful-booker](https://github.com/syrox11/api-testing-restful-booker) | REST API tests with Playwright and Postman/Newman: CRUD, auth, contract and negative cases |
-| [syrovatskyy.com](https://github.com/syrox11/artiomsyrovatskyy.com) | My portfolio site (ES / EN / FR) |
+| [syrovatskyy.com](https://github.com/syrox11/syrovatskyy.com) | My portfolio site (ES / EN / FR) |
 
 ### 🛠️ Stack
 
