@@ -8,13 +8,14 @@ Available immediately · EU citizen (no sponsorship needed).
 
 | Project | What it shows |
 |---------|---------------|
+| [precursor-survivors](https://github.com/syrox11/precursor-survivors) · [▶ play](https://syrox11.github.io/precursor-survivors/) | Fan-made Jak and Daxter browser game, tested like a product: 211 Vitest unit tests and 23 Playwright E2E tests driving the canvas (regression and performance checks), with a CI gate that only deploys when the suite passes |
 | [playwright-bdd-saucedemo](https://github.com/syrox11/playwright-bdd-saucedemo) | E2E suite with Playwright, TypeScript, Gherkin/BDD and Page Object Model, run in GitHub Actions |
 | [api-testing-restful-booker](https://github.com/syrox11/api-testing-restful-booker) | REST API tests with Playwright and Postman/Newman: CRUD, auth, contract and negative cases |
 | [syrovatskyy.com](https://github.com/syrox11/syrovatskyy.com) | My portfolio site (ES / EN / FR) |
 
 ### 🛠️ Stack
 
-- **Automation:** Playwright · Gherkin/BDD · JMeter · k6
+- **Automation:** Playwright · Vitest · Gherkin/BDD · JMeter · k6
 - **API testing:** Postman · Newman · SoapUI · REST · SOAP
 - **Languages:** TypeScript · JavaScript · SQL · MongoDB · Python · PowerShell
 - **CI/CD & tools:** GitHub Actions · GitLab CI/CD · Azure DevOps · Git · Docker · Jira
