@@ -9,6 +9,7 @@ Available immediately · EU citizen (no sponsorship needed).
 | Project | What it shows |
 |---------|---------------|
 | [precursor-survivors](https://github.com/syrox11/precursor-survivors) · [▶ play](https://syrox11.github.io/precursor-survivors/) | Fan-made Jak and Daxter browser game, tested like a product: 211 Vitest unit tests and 23 Playwright E2E tests driving the canvas (regression and performance checks), with a CI gate that only deploys when the suite passes |
+| [bdd-forge](https://github.com/syrox11/bdd-forge) · [▶ try it](https://syrox11.github.io/bdd-forge/) | Web tool that generates Gherkin scenarios, step definitions (playwright-bdd / Cucumber.js) and manual test cases from a few QA parameters. Every generated feature is checked with the official Gherkin parser and every step is matched against its step definition; 43 Vitest unit tests and 22 Playwright E2E tests |
 | [playwright-bdd-saucedemo](https://github.com/syrox11/playwright-bdd-saucedemo) | E2E suite with Playwright, TypeScript, Gherkin/BDD and Page Object Model, run in GitHub Actions |
 | [api-testing-restful-booker](https://github.com/syrox11/api-testing-restful-booker) | REST API tests with Playwright and Postman/Newman: CRUD, auth, contract and negative cases |
 | [syrovatskyy.com](https://github.com/syrox11/syrovatskyy.com) | My portfolio site (ES / EN / FR) |
